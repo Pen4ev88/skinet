@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Angular 1",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 200,
+        "PictureUrl": "images/products/1.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Angular 2",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 100,
+        "PictureUrl": "images/products/2.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Angular 3",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 150,
+        "PictureUrl": "images/products/3.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Angular 4",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 300,
+        "PictureUrl": "images/products/4.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Angular 5",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 400,
+        "PictureUrl": "images/products/5.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 3
+    }
+]
