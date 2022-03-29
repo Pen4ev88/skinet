@@ -1,35 +1,35 @@
 [
     {
-        "Name": "Angular 1",
+        "Name": "Ski 1",
         "Description": "Lorem ipsum dolor sit amet...",
         "Price": 200,
-        "PictureUrl": "images/products/1.png",
+        "PictureUrl": "images/products/ski.png",
         "ProductTypeId": 1,
         "ProductBrandId": 1
     },
     {
-        "Name": "Angular 2",
+        "Name": "Boots 2",
         "Description": "Lorem ipsum dolor sit amet...",
         "Price": 100,
-        "PictureUrl": "images/products/2.png",
-        "ProductTypeId": 1,
-        "ProductBrandId": 1
-    },
-    {
-        "Name": "Angular 3",
-        "Description": "Lorem ipsum dolor sit amet...",
-        "Price": 150,
-        "PictureUrl": "images/products/3.png",
-        "ProductTypeId": 1,
+        "PictureUrl": "images/products/boots.png",
+        "ProductTypeId": 2,
         "ProductBrandId": 2
     },
     {
-        "Name": "Angular 4",
+        "Name": "Gloves 3",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 150,
+        "PictureUrl": "images/products/gloves.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Helmet 4",
         "Description": "Lorem ipsum dolor sit amet...",
         "Price": 300,
-        "PictureUrl": "images/products/4.png",
-        "ProductTypeId": 2,
-        "ProductBrandId": 1
+        "PictureUrl": "images/products/helmet.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 4
     },
     {
         "Name": "Angular 5",
