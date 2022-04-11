@@ -2,7 +2,7 @@
     {
         "Name": "Ski 1",
         "Description": "Lorem ipsum dolor sit amet...",
-        "Price": 200,
+        "Price": 399,
         "PictureUrl": "images/products/ski.png",
         "ProductTypeId": 1,
         "ProductBrandId": 1
@@ -10,7 +10,7 @@
     {
         "Name": "Boots 2",
         "Description": "Lorem ipsum dolor sit amet...",
-        "Price": 100,
+        "Price": 199,
         "PictureUrl": "images/products/boots.png",
         "ProductTypeId": 2,
         "ProductBrandId": 2
@@ -18,7 +18,7 @@
     {
         "Name": "Gloves 3",
         "Description": "Lorem ipsum dolor sit amet...",
-        "Price": 150,
+        "Price": 49,
         "PictureUrl": "images/products/gloves.png",
         "ProductTypeId": 3,
         "ProductBrandId": 3
@@ -26,16 +26,56 @@
     {
         "Name": "Helmet 4",
         "Description": "Lorem ipsum dolor sit amet...",
-        "Price": 300,
+        "Price": 99,
         "PictureUrl": "images/products/helmet.png",
         "ProductTypeId": 4,
         "ProductBrandId": 4
     },
     {
-        "Name": "Angular 5",
+        "Name": "Back Protector",
         "Description": "Lorem ipsum dolor sit amet...",
-        "Price": 400,
-        "PictureUrl": "images/products/5.png",
+        "Price": 149,
+        "PictureUrl": "images/products/backProtector.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Ski 11",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 399,
+        "PictureUrl": "images/products/ski.png",
+        "ProductTypeId": 1,
+        "ProductBrandId": 1
+    },
+    {
+        "Name": "Boots 22",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 199,
+        "PictureUrl": "images/products/boots.png",
+        "ProductTypeId": 2,
+        "ProductBrandId": 2
+    },
+    {
+        "Name": "Gloves 33",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 49,
+        "PictureUrl": "images/products/gloves.png",
+        "ProductTypeId": 3,
+        "ProductBrandId": 3
+    },
+    {
+        "Name": "Helmet 44",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 99,
+        "PictureUrl": "images/products/helmet.png",
+        "ProductTypeId": 4,
+        "ProductBrandId": 4
+    },
+    {
+        "Name": "Back Protector 22",
+        "Description": "Lorem ipsum dolor sit amet...",
+        "Price": 149,
+        "PictureUrl": "images/products/backProtector.png",
         "ProductTypeId": 2,
         "ProductBrandId": 3
     }
